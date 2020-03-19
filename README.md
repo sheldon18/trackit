@@ -1,3 +1,8 @@
+#TrackIT Ticket System - Milestone Project
+
+[![Build Status](https://travis-ci.org/sheldon18/trackit.svg?branch=master)](https://travis-ci.org/sheldon18/trackit)
+
+
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
